@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2453" started-at="2020-11-03T10:39:11 IST" finished-at="2020-11-03T10:39:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2453" started-at="2020-11-03T10:39:11 IST" finished-at="2020-11-03T10:39:13 IST">
+      <class name="automationStepByStep.SecondTestCase">
+        <test-method status="PASS" signature="testbase()[pri:0, instance:automationStepByStep.SecondTestCase@6e0dec4a]" name="testbase" is-config="true" duration-ms="1078" started-at="2020-11-03T10:39:11 IST" finished-at="2020-11-03T10:39:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbase -->
+        <test-method status="PASS" signature="testdata()[pri:0, instance:automationStepByStep.SecondTestCase@6e0dec4a]" name="testdata" duration-ms="1331" started-at="2020-11-03T10:39:12 IST" finished-at="2020-11-03T10:39:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method status="PASS" signature="test()[pri:0, instance:automationStepByStep.SecondTestCase@6e0dec4a]" name="test" is-config="true" duration-ms="2" started-at="2020-11-03T10:39:13 IST" finished-at="2020-11-03T10:39:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- automationStepByStep.SecondTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

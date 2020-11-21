@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "Deepak",
+      "lastName": "varma",
+      "id": 1,
+      "subjectId": 1
+    },
+    {
+      "firstName": "Manik",
+      "lastName": "Sharan",
+      "id": 2,
+      "subjectId": 1
+    },
+    {
+      "firstName": "Rohit",
+      "lastName": "Cholleti",
+      "id": 3,
+      "subjectId": 2
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Automation"
+    },
+    {
+      "id": 2,
+      "name": "DOT NET"
+    }
+  ]
+}

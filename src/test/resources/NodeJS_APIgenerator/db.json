@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "firstName": "Deepak",
+      "lastName": "varma",
+      "id": 1,
+      "subjectId": 1
+    },
+    {
+      "firstName": "Manik",
+      "lastName": "Sharan",
+      "id": 2,
+      "subjectId": 1
+    },
+    {
+      "firstName": "Rohit",
+      "lastName": "Cholleti",
+      "id": 3,
+      "subjectId": 2
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 4
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 5
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 6
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 7
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 8
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 9
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 10
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 11
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 12
+    },
+    {
+      "firstName": "Geeta",
+      "lastName": "Sri",
+      "subjectId": 1,
+      "id": 13
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Automation"
+    },
+    {
+      "id": 2,
+      "name": "DOT NET"
+    }
+  ]
+}
